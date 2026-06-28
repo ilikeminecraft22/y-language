@@ -1,4 +1,4 @@
-# read the license brutha
+# please read the license i worked so hard on it ngl
 
 ---
 
