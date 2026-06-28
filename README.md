@@ -6,5 +6,5 @@ PS: If you don't understand the license, the kids version:
 - Use YC to make your own projects ✅
 - Include YC as part of your software ✅
 - Modify YC for your own use ✅
-- Don't just rename YC to "YC2" and sell it as your own project ❌
+- Don't take YC (even a fork of it), rename it and sell it as ur own standalone project ❌
 - Don't sell YC itself as a standalone product ❌
