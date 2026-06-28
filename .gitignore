@@ -1,0 +1,6 @@
+test.cpp
+code.y
+yc.dist
+__pycache__
+yc.build
+yc.onefile-build
