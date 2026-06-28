@@ -512,7 +512,7 @@ if len(sys.argv) < 2:
         "usage: yc <option> <filename>\n"
         "open help with yc -h"
     )
-    exit(1)
+    sys.exit(1)
 
 
 if sys.argv[1] == "-h":
@@ -525,7 +525,7 @@ if sys.argv[1] == "-h":
     print(" -t - prints output in text")
     print(" -d - creates a shared library (.dll/.so)")
 
-    exit(0)
+    sys.exit(0)
 
 
 if sys.argv[1] == "-b":
